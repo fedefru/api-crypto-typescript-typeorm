@@ -17,6 +17,7 @@ Requiere de [Node.js](https://nodejs.org/) para correr el proyecto. Instalar las
     git clone https://github.com/
     cd miapp
     npm install
+    npm run build
     npm run dev
 
  # Variables de entorno 
