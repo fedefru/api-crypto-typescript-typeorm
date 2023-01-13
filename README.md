@@ -218,7 +218,7 @@ Se debe generar el file .env y crear las siguientes variables para el correcto f
 
 ### prices
 
-| id | name | symbol | createdAt
+| id | updatedAt | currentPrice | coinId
 |--|--|--|--|
 | ... | ...  | ... | ... |
 
